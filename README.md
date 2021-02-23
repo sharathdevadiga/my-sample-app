@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## NPM install
-run npm install -g @angular/cli (if not already installed)
 cd my-sample-app
-ng serve
+run npm install 
+ng start
 
 ## Development server
 
